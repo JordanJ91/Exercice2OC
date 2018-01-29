@@ -1,1 +1,2 @@
-Ceci est une fichier texte crée a partir de Github.
+﻿Ceci est une fichier texte crée a partir de Github.
+Et la c'est une modification du fichier test.txt a partir de ma machine locale.
